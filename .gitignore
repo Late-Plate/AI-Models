@@ -1,0 +1,12 @@
+# Ignore CSV files
+*.csv
+*.CSV
+
+# Ignore equivalent formats
+*.tsv        # Tab-separated values
+*.xls        # Excel 97-2003 format
+*.xlsx       # Excel Open XML format
+*.ods        # OpenDocument Spreadsheet
+*.xlsb       # Excel binary workbook
+*.xlsm       # Excel macro-enabled workbook
+*.numbers    # Apple Numbers file
