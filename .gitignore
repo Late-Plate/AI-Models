@@ -10,3 +10,8 @@
 *.xlsb       # Excel binary workbook
 *.xlsm       # Excel macro-enabled workbook
 *.numbers    # Apple Numbers file
+
+#ignore notebook checkpoints
+
+*.ipynb_checkpoints
+
